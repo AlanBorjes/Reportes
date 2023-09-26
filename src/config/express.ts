@@ -10,4 +10,8 @@ app.use(
 )
 app.use(express.json({limit : '50mb'}));
 
+//App - Routes
+
+
+
 export default app;
